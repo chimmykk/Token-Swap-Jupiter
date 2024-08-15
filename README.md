@@ -18,18 +18,16 @@ Installation
 
 1.  **Clone the Repository**:
 
-    bash
 
-    Copy code
+
+
 
     `git clone <repository-url>
     cd jupiter-trading-bot`
 
 2.  **Install Dependencies**:
 
-    bash
-
-    Copy code
+   
 
     `npm install`
 
@@ -40,9 +38,7 @@ Usage
 
 To start the bot, use the following command:
 
-bash
 
-Copy code
 
 `npx ts-node index.ts`
 
@@ -63,7 +59,7 @@ Configuration
 
     env
 
-    Copy code
+  
 
     `SOLANA_RPC_URL=<your-solana-rpc-url>
     JUPITER_API_KEY=<your-jupiter-api-key>`
